@@ -1,4 +1,4 @@
-pip3 install pytest
+
 import cocotb
 from cocotb.triggers import Timer
 
